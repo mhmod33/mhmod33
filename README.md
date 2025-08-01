@@ -1,5 +1,10 @@
 [![Header](https://github.com/mhmod33/mhmod33/blob/main/High%20Tech%20Internet%20GIF%20by%20Matthew%20Butler.gif)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.linkedin.com/in/mahmoud-sayed-ali/))
-
+ <p>
+      <strong>
+          Computer Science Student, Back-End Developer, Problem Solver, Freelancer, and UI/UX Designer.<br><br>
+         Full Stack Developer (PHP) & UI/UX Designer with a passion for colors, creativity, and clean design. Enthusiastic about front-end development to bridge design and code, and enjoy back-end logic to connect all parts seamlessly. Hardworking, eager to improve skills           continuously, and committed to delivering user-friendly, efficient solutions.
+      </strong>
+  </p>
 ## Hi there 👋
 
 <!--
