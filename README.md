@@ -1,7 +1,7 @@
 [![Header](https://github.com/mhmod33/mhmod33/blob/main/High%20Tech%20Internet%20GIF%20by%20Matthew%20Butler.gif)]((https://www.linkedin.com/in/mahmoud-sayed-ali/))
 <div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mahmoud+%F0%9F%91%8B;Computer+Science+Graduate;ITI+Graduate;Back-End+Developer;UI/UX+Designer;Freelancer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mahmoud+%F0%9F%91%8B;Computer+Science+Graduate;ITI+Graduate;Full-stack+Developer+PHP+(Laravel);UI/UX+Designer;Freelancer;" alt="Headline" />
     </div>
     <div align=center>
         <a href="[https://www.linkedin.com/in/ahmedfathydev/](https://www.linkedin.com/in/mahmoud-sayed-ali/)"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
