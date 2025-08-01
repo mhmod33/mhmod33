@@ -6,7 +6,7 @@
     <div align=center>
         <p align="center">
           <a href="https://mostaql.com/u/USERNAME"><img src="https://img.shields.io/badge/Mostaql-563D7C?style=flat&logo=Mostaql&logoColor=white" /></a>
-          <a href="https://khamsat.com/user/USERNAME"><img src="https://img.shields.io/badge/خمسات-F2A900?style=flat&logo=Khamsat&logoColor=white" /></a>
+          <a href="https://khamsat.com/user/USERNAME"><img src="https://img.shields.io/badge/5-Khamsat-F2A900?style=flat&logo=Khamsat&logoColor=white" /></a>
           <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
           <a href="https://wa.me/201159403998"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
           <a href="https://www.upwork.com/freelancers/~USERNAME"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white" /></a>
