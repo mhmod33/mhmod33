@@ -12,8 +12,6 @@
           <a href="https://www.upwork.com/freelancers/~USERNAME"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white" /></a>
           <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" /></a>
         </p>
-
-
     </div>
     <div align=left>
         <br>
