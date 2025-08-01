@@ -1,5 +1,11 @@
 [![Header](https://github.com/mhmod33/mhmod33/blob/main/High%20Tech%20Internet%20GIF%20by%20Matthew%20Butler.gif)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.linkedin.com/in/mahmoud-sayed-ali/))
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Typing Effect</title>
+  <style>
     body {
       font-family: Arial, sans-serif;
       background: #f7f7f7;
@@ -29,11 +35,15 @@
       50% { border-color: transparent }
     }
   </style>
- <p>
-  <strong>
-   <p class="typewriter">
+</head>
+<body>
+
+  <p class="typewriter">
     Computer Science Student, Back-End Developer, Problem Solver, Freelancer, and UI/UX Designer.
   </p>
+
+</body>
+</html>
          Full Stack Developer (PHP) & UI/UX Designer with a passion for colors, creativity, and clean design. Enthusiastic about front-end development to bridge design and code, and enjoy back-end logic to connect all parts seamlessly. Hardworking, eager to improve skills           continuously, and committed to delivering user-friendly, efficient solutions.
       </strong>
   </p>
