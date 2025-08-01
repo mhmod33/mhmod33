@@ -1,3 +1,5 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Hi there 👋
 
 <!--
